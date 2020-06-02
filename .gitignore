@@ -86,7 +86,6 @@ plugins/PlotSquared/storage.db
 
 
 
-
 server.properties
 
 plugins/ProtocolLib/lastupdate
@@ -124,3 +123,5 @@ config/astralsorcery/amulet_enchantments.cfg
 paper.yml
 
 spigot.yml
+
+plugins/CratesPlus/data.yml
