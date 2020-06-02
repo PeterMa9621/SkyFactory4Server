@@ -114,3 +114,9 @@ plugins/ItemsAdder/storage/data.yml
 plugins/CrazyAuctionsPlus/Database.db
 
 plugins/SimpleClans/SimpleClans.db
+
+.mixin.out/audit/mixin_implementation_report.txt
+
+config/astralsorcery/amulet_enchantments.cfg
+
+*.log
