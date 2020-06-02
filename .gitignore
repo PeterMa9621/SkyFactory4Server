@@ -120,3 +120,7 @@ plugins/SimpleClans/SimpleClans.db
 config/astralsorcery/amulet_enchantments.cfg
 
 *.log
+
+paper.yml
+
+spigot.yml
