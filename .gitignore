@@ -127,3 +127,5 @@ spigot.yml
 plugins/CratesPlus/data.yml
 
 plugins/CratesPlus/config.yml
+
+usernamecache.json
